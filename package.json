@@ -21,12 +21,14 @@
   },
   "homepage": "https://github.com/parag28/NamasteReact#readme",
   "devDependencies": {
+    "@parcel/transformer-typescript-types": "^2.11.0",
     "parcel": "^2.10.3",
     "process": "^0.11.10"
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.0"
   },
   "browserslist": [
     "last 2 versions"
