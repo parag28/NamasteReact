@@ -22,8 +22,11 @@
   "homepage": "https://github.com/parag28/NamasteReact#readme",
   "devDependencies": {
     "@parcel/transformer-typescript-types": "^2.11.0",
+    "autoprefixer": "^10.4.16",
     "parcel": "^2.10.3",
-    "process": "^0.11.10"
+    "postcss": "^8.4.33",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
   },
   "dependencies": {
     "react": "^18.2.0",
