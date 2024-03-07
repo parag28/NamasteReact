@@ -4,8 +4,8 @@ const Error = () => {
   const err = useRouteError();
   console.log(err);
   return (
-    <div>
-      <h1>error ig</h1>
+    <div className="text-center p-5 m-5">
+      <h1>error </h1>
       <h3>
         {err.status}:{err.statusText}
       </h3>
